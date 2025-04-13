@@ -2,8 +2,8 @@
 
 This project predicts vehicle types using a machine learning model trained on annotated data.
 
-🔗 **[Open in Google Colab]
-https://colab.research.google.com/drive/16NPurXBaV13H7dH_mDKtikBmo0G2d4qk?hl=en#scrollTo=y5GHWaUzwmD3
+##[Open in Google Colab]
+https://colab.research.google.com/drive/16NPurXBaV13H7dH_mDKtikBmo0G2d4qk
 
 ## Tools Used
 - Python
