@@ -38,9 +38,6 @@ engine, mileage, year, cylinders, fuel, transmission, make, model, body.
 Chosen Algorithm: Random Forest Regressor
 Why? It handles both linear and non-linear data well and reduces overfitting by combining many decision trees.
 
-Conclusion
-This project successfully demonstrated how machine learning can be applied to predict vehicle prices. After processing the data and using a Random Forest Regressor, the model achieved strong performance metrics and can generalize well to unseen data.
-
 ## Tools Used
 - Python
 - Google Colab
@@ -48,4 +45,5 @@ This project successfully demonstrated how machine learning can be applied to pr
 - scikit-learn
 ## Results
 - Accuracy: 93%
-- F1 Score: 0.89
+- Conclusion
+This project successfully demonstrated how machine learning can be applied to predict vehicle prices. After processing the data and using a Random Forest Regressor, the model achieved strong performance metrics and can generalize well to unseen data.
